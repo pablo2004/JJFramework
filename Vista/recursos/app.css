@@ -1,0 +1,13 @@
+body {
+     padding-top: 70px;
+}
+
+.log {
+	 width: 100%;
+     text-align: center;
+}
+
+.muestra-info {
+     width: 200px;
+     height: 200px !important;
+}
